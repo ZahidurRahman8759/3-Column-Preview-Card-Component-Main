@@ -1,0 +1,48 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: hsl(0, 0%, 95%) !important;
+}
+
+.main-card {
+    display: flex;
+    justify-content: center;
+}
+
+.icon {
+    width: 70px;
+}
+
+.main-title {
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 2.5rem;
+}
+
+.main-des {
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: lighter;
+}
+
+.btn {
+    font-family: 'Lexend Deca', sans-serif !important;
+}
+
+.btn:hover {
+    background: none !important;
+    border: 2px white solid !important;
+    color: white !important;
+}
+
+@media (max-width: 375px) {
+    body {
+        height: 100%;
+        justify-content: center;
+    }
+
+    .main-card {
+        flex-direction: column;
+        align-items: center;
+        margin: 50px;
+    }
+}
