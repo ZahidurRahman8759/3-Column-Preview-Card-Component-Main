@@ -28,9 +28,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [HTML](https://your-solution-url.com)
-- Solution URL: [CSS](https://your-solution-url.com)
-- Live Site URL: [LIVE SITE](https://your-live-site-url.com)
+- Solution URL: [HTML](https://github.com/ZahidurRahman8759/3-Column-Preview-Card-Component-Main/blob/3a173059d454902b2e4956666d32ccef3fb8b531/index.html)
+- Solution URL: [CSS](https://github.com/ZahidurRahman8759/3-Column-Preview-Card-Component-Main/blob/3a173059d454902b2e4956666d32ccef3fb8b531/style.css)
+- Live Site URL: [LIVE SITE](https://zahidurrahman8759.github.io/3-Column-Preview-Card-Component-Main/)
 
 ## My process
 
@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-I built this project with help of Bootstrap 5. It was easier by not using Bootstrap but I wanted a go and try it out. It was fun and learned a lot about of customization of the default bootstrap codes.
+I built this project with the help of Bootstrap 5. It was easier by not using Bootstrap but I wanted a go and try it out. It was fun and learned a lot about customization of the default bootstrap codes.
 
 ## Author
 
